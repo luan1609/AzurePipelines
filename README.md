@@ -1,4 +1,3 @@
 # AzurePipelines
-Documentação AzurePipelines
-## Agents
-Teste de link draw.io
+Repositório criado com a finalidade de estudo do AzurePipelines
+
